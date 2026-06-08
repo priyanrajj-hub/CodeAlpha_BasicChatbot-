@@ -1,0 +1,13 @@
+# ─────────────────────────────────────────
+# AlphaBot — Python Dependencies
+# ─────────────────────────────────────────
+# This project uses ONLY Python Standard Library.
+# No pip install needed — just run: python main.py
+#
+# Standard modules used:
+#   os, sys, json, urllib.request, urllib.error, datetime
+#
+# Optional: install these for development quality
+# pytest>=8.0          # for running tests
+# black>=24.0          # for code formatting
+# mypy>=1.0            # for type checking
